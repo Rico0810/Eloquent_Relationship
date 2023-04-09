@@ -10,7 +10,7 @@ Disini Saya membuat semacam web yang dimana terdapat 2 fitur yaitu 'Home' dan 'A
     <img src="public/image/gambar2.PNG" alt="gambar page">
 Jadi, user memiliki blog artikel masing - masing dan terhubung satu sama lain.
 
-2. Relasi One-to-Many: Terletak pada saat anda berada pada page 'Home' dimana di bagian bawah setelah profile, kamu akan melihat tulisan 'Klik disini untuk melihat artikel', jika user klik link tersebut maka akan diarahkan ke page blog artikel yang dimana pada page tersebut ada 5 judul artikel. Kondisi One-to-Many terletak disini jika kamu membuat artikel bersama teman maka kamu bisa membuat sebuah profile user baru di 'Home' terus kamu dapat menggunakan database yang sama, dalam kondisi artikel yang kamu kerjakan bersama teman. Jadi artikel yang akan muncul pada kedua profile user tersebut akan sama.
+2. Relasi One-to-Many: Terletak pada saat anda berada pada page 'Home' dimana di bagian bawah setelah profile, kamu akan melihat tulisan 'Klik disini untuk melihat artikel', jika user klik link tersebut maka akan diarahkan ke page blog artikel yang dimana pada page tersebut ada 5 judul artikel. Kondisi One-to-Many terletak disini jika kamu membuat artikel bersama teman maka kamu bisa membuat sebuah profile user baru di 'Home' terus kamu dapat menggunakan database yang sama, dalam kondisi artikel yang kamu kerjakan bersama teman. Jadi artikel yang akan muncul pada kedua profile user tersebut akan sama, yang berarti blog artikel tersebut menerapkan konsep One-to-Many (satu blog artikel dapat dimiliki oleh beberapa user).
     - Tampilan 'Home':
     <img src="public/image/gambar3.PNG" alt="gambar page">
     - Tampilan penuh blog artikel:
